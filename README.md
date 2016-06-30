@@ -7,20 +7,21 @@ This is a guide for the Flatiron Instructor team that outlines curriculum for th
 
 # Topics
 
-#### Ruby
+#### [Ruby](https://www.google.com)
 
-#### Object-Oriented Ruby
 
-#### SQL
+#### [Object-Oriented Ruby](https://github.com/leighsn/web-instructor-guide/blob/master/Object-Oriented-Ruby/Object-Oriented-Ruby.md)
 
-#### ORMs and ActiveRecord
+#### [SQL](https://github.com/leighsn/web-instructor-guide/blob/master/SQL/SQL.md)
 
-#### Rack
+#### [ORMs and ActiveRecord](https://github.com/leighsn/web-instructor-guide/blob/master/ORMs-ActiveRecord/ORMs-ActiveRecord.md)
 
-#### Sinatra
+#### [Rack](https://github.com/leighsn/web-instructor-guide/blob/master/Rack/Rack.md)
 
-#### Rails
+#### [Sinatra](https://github.com/leighsn/web-instructor-guide/blob/master/Sinatra/Sinatra.md)
 
-#### Rails APIs
+[Rails](https://github.com/leighsn/web-instructor-guide/blob/master/Rails/Rails.md)
 
-#### JavaScript
+#### [Rails APIs](https://github.com/leighsn/web-instructor-guide/blob/master/Rails-APIs/Rails-APIs.md)
+
+#### [JavaScript](https://github.com/leighsn/web-instructor-guide/blob/master/JavaScript/JavaScript.md)
