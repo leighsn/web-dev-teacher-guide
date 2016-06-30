@@ -7,7 +7,7 @@ This is a guide for the Flatiron Instructor team that outlines curriculum for th
 
 # Topics
 
-#### [Ruby](https://www.google.com)
+#### [Ruby](https://github.com/leighsn/web-instructor-guide/blob/master/Ruby/Ruby.md)
 
 
 #### [Object-Oriented Ruby](https://github.com/leighsn/web-instructor-guide/blob/master/Object-Oriented-Ruby/Object-Oriented-Ruby.md)
