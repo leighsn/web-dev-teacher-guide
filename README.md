@@ -7,20 +7,20 @@ This is a guide for the Flatiron Instructor team that outlines curriculum for th
 
 # Topics
 
-## Ruby
+#### Ruby
 
-## Object-Oriented Ruby
+#### Object-Oriented Ruby
 
-## SQL
+#### SQL
 
-## ORMs and ActiveRecord
+#### ORMs and ActiveRecord
 
-## Rack
+#### Rack
 
-## Sinatra
+#### Sinatra
 
-## Rails
+#### Rails
 
-## Rails APIs
+#### Rails APIs
 
-## JavaScript
+#### JavaScript
