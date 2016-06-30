@@ -20,7 +20,7 @@ This is a guide for the Flatiron Instructor team that outlines curriculum for th
 
 #### [Sinatra](https://github.com/leighsn/web-instructor-guide/blob/master/Sinatra/Sinatra.md)
 
-[Rails](https://github.com/leighsn/web-instructor-guide/blob/master/Rails/Rails.md)
+#### [Rails](https://github.com/leighsn/web-instructor-guide/blob/master/Rails/Rails.md)
 
 #### [Rails APIs](https://github.com/leighsn/web-instructor-guide/blob/master/Rails-APIs/Rails-APIs.md)
 
